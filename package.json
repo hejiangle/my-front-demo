@@ -4,7 +4,7 @@
   "description": "This demo is used for practice front dev",
   "main": "index.js",
   "scripts": {
-    "start": "node src/main.js",
+    "start": "node src/js/main.js",
     "test": "mocha test/"
   },
   "repository": {

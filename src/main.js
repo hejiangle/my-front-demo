@@ -1,5 +1,5 @@
-var Student = require('../src/Student')
-var Person = require('../src/Person')
+var Student = require('../src/js/Student')
+var Person = require('../src/js/Person')
 
 var std1 = new Student("Frank", "Kaiser", "male", 25, 89757);
 var person1 = new Person("Oliver", "Queen","male", 30);
